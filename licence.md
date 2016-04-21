@@ -1,1 +1,2 @@
 #licence
+jako něco napsanýho
